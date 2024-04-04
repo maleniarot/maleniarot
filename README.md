@@ -16,7 +16,7 @@
 
    - Tenho experiência com JavaScript, HTML, CSS, Python, C e C#.
 
-   - Gosto de assistir filmes, jogar(minha steam é linda) e ouvir música(Spotify com minhas playlists no instagram).
+   - Gosto de assistir filmes, jogar(minha steam é linda) e ouvir música(sou viciado, Spotify com minhas playlists no instagram).
 </details>
 
 <!--Links Redes Sociais-->
