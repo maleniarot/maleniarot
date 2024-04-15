@@ -1,6 +1,5 @@
 <!--divisor-->
-<img src="![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/xiquesasu/xiquesasu/assets/128109854/1315d660-6477-4535-b937-acc2bccf910e)
-">
+<img src="![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/xiquesasu/xiquesasu/assets/128109854/23ff825c-1b72-4bb4-af7e-dadcee19db3a)">
 
 <!--título-->
 <p>
