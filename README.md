@@ -14,7 +14,7 @@
 <details>
   <summary> 👨‍💻 Mais sobre mim</summary>
 
-   - Tenho experiência com JavaScript, HTML, CSS, Python, C e C#.
+   - Tenho experiência com JavaScript, Python, C e C#.
 
 </details>
 
